@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "full_name": "Naveed Fida",
+    "email": "nf@example.com",
+    "phone_number": "12345678955",
+    "tags": "work"
+  },
+  {
+    "id": 2,
+    "full_name": "Victor Reyes",
+    "email": "vpr@example.com",
+    "phone_number": "09876543210",
+    "tags": "work"
+  },
+  {
+    "id": 3,
+    "full_name": "Pete Hanson",
+    "email": "ph@example.com",
+    "phone_number": "54321098761",
+    "tags": "work, family, friend"
+  },
+  {
+    "full_name": "peter staal",
+    "phone_number": "0650667550",
+    "email": "peter@bind.nl",
+    "tags": "work,friend",
+    "id": 4
+  },
+  {
+    "full_name": "Joppe Staal",
+    "phone_number": "0657889443",
+    "email": "joppestaal@gmail.com",
+    "tags": "family, friend",
+    "id": 5
+  }
+]
